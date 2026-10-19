@@ -6,7 +6,7 @@ Este espacio documenta ejercicios de análisis matemático, modelado funcional, 
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```text
 matematicas-aplicadas/
@@ -31,7 +31,7 @@ matematicas-aplicadas/
 
 ---
 
-## 📚 Contenido Detallado
+## Contenido Detallado
 
 ### 1. Guías de Trabajo (`Actividades/Guias/`)
 - **[G1_Funciones.ipynb](Actividades/Guias/G1_Funciones.ipynb)**: Modelado de funciones para transmisión de datos, costos de producción y variación temporal.
@@ -51,7 +51,7 @@ matematicas-aplicadas/
 
 ---
 
-## 🛠️ Tecnologías y Librerías
+## Tecnologías y Librerías
 
 - **[Python 3.10+](https://www.python.org/)**
 - **[NumPy](https://numpy.org/)**: Operaciones matriciales y cálculo numérico.
@@ -61,7 +61,7 @@ matematicas-aplicadas/
 
 ---
 
-## 🚀 Instalación y Uso
+## Instalación y Uso
 
 ### 1. Clonar el repositorio
 ```bash
