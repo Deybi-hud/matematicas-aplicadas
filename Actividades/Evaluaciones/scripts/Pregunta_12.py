@@ -9,7 +9,6 @@ def g(x):
 
 X = np.linspace(0,11,11)
 
-
 Y = f(X) 
 C = g(X)
 
