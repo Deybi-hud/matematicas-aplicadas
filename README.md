@@ -2,7 +2,7 @@
 
 Repositorio de actividades, talleres y evaluaciones de **Matemáticas Aplicadas**, desarrollado principalmente en **Python** y **Jupyter Notebook**.
 
-Este espacio documenta ejercicios de análisis matemático, modelado funcional, optimización y visualización gráfica aplicados a problemas del mundo real (redes, análisis de costos, consumo energético, cifrado de datos y climatología).
+Este espacio documenta ejercicios de análisis matemático, modelado funcional, optimización, sucesiones y visualización gráfica aplicados a problemas del mundo real (redes, análisis de costos, consumo energético, cifrado de datos y climatología).
 
 ---
 
@@ -14,9 +14,10 @@ matematicas-aplicadas/
 ├── requirements.txt                    # Dependencias del proyecto
 ├── README.md                           # Documentación principal
 └── Actividades/
-    ├── Guias/                          # Guías de ejercicios y práctica de funciones
+    ├── Guias/                          # Guías de ejercicios y práctica (funciones y sucesiones)
     │   ├── G1_Funciones.ipynb          # Guía 1: Modelado funcional básico
-    │   └── G2_Funciones.ipynb          # Guía 2: Funciones avanzadas y análisis de eficiencia
+    │   ├── G2_Funciones.ipynb          # Guía 2: Funciones avanzadas y análisis de eficiencia
+    │   └── G4_Sucesiones.ipynb         # Guía 4: Sucesiones, términos generales y comportamiento
     ├── Talleres/                       # Talleres evaluados y de preparación
     │   ├── Preparacion_Taller_1.ipynb  # Práctica: Consumo eléctrico y gestión de residuos
     │   ├── T1_MAT2121_FB.ipynb         # Taller 1 (Fila B): Modelado de lluvias torrenciales
@@ -36,6 +37,7 @@ matematicas-aplicadas/
 ### 1. Guías de Trabajo (`Actividades/Guias/`)
 - **[G1_Funciones.ipynb](Actividades/Guias/G1_Funciones.ipynb)**: Modelado de funciones para transmisión de datos, costos de producción y variación temporal.
 - **[G2_Funciones.ipynb](Actividades/Guias/G2_Funciones.ipynb)**: Evaluación de eficiencia de algoritmos, funciones cuadráticas y no lineales.
+- **[G4_Sucesiones.ipynb](Actividades/Guias/G4_Sucesiones.ipynb)**: Análisis y cálculo de términos, patrones recurrentes y comportamiento de sucesiones numéricas.
 
 ### 2. Talleres (`Actividades/Talleres/`)
 - **[Preparacion_Taller_1.ipynb](Actividades/Talleres/Preparacion_Taller_1.ipynb)**: Resolución de problemas de consumo eléctrico durante olas de calor y gestión de residuos urbanos.
