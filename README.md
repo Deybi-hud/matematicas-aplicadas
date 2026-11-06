@@ -42,6 +42,7 @@ matematicas-aplicadas/
 
 ### 2. Talleres (`Actividades/Talleres/`)
 - **[Preparacion_Taller_1.ipynb](Actividades/Talleres/Preparacion_Taller_1.ipynb)**: Resolución de problemas de consumo eléctrico durante olas de calor y gestión de residuos urbanos.
+- **[Preparacion_Taller_1.ipynb](Actividades/Talleres/Preparacion_Taller_1.ipynb)**: Resolución de problemas de consumo eléctrico durante olas de calor y gestión de residuos urbanos.
 - **[T1_MAT2121_FB.ipynb](Actividades/Talleres/T1_MAT2121_FB.ipynb)**: Taller 1 - Modelado de caudales y prevención de inundaciones.
 - **[T2_MAT2121_FA.ipynb](Actividades/Talleres/T2_MAT2121_FA.ipynb)**: Taller 2 - Comparativa de algoritmos de cifrado lineal vs polinomial.
 
