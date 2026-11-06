@@ -19,6 +19,7 @@ matematicas-aplicadas/
     │   ├── G2_Funciones.ipynb          # Guía 2: Funciones avanzadas y análisis de eficiencia
     │   └── G4_Sucesiones.ipynb         # Guía 4: Sucesiones, términos generales y comportamiento
     ├── Talleres/                       # Talleres evaluados y de preparación
+    |   ├── Simulacro_taller_3.ipynb
     │   ├── Preparacion_Taller_1.ipynb  # Práctica: Consumo eléctrico y gestión de residuos
     │   ├── T1_MAT2121_FB.ipynb         # Taller 1 (Fila B): Modelado de lluvias torrenciales
     │   └── T2_MAT2121_FA.ipynb         # Taller 2 (Fila A): Batalla de cifrado (lineal vs polinomial)
