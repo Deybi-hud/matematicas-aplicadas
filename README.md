@@ -19,7 +19,7 @@ matematicas-aplicadas/
     │   ├── G2_Funciones.ipynb          # Guía 2: Funciones avanzadas y análisis de eficiencia
     │   └── G4_Sucesiones.ipynb         # Guía 4: Sucesiones, términos generales y comportamiento
     ├── Talleres/                       # Talleres evaluados y de preparación
-    |   ├── Simulacro_taller_3.ipynb
+    |   ├── Simulacro_taller_3.ipynb    # Taller 3: 5 ejercicios 
     │   ├── Preparacion_Taller_1.ipynb  # Práctica: Consumo eléctrico y gestión de residuos
     │   ├── T1_MAT2121_FB.ipynb         # Taller 1 (Fila B): Modelado de lluvias torrenciales
     │   └── T2_MAT2121_FA.ipynb         # Taller 2 (Fila A): Batalla de cifrado (lineal vs polinomial)
@@ -41,7 +41,7 @@ matematicas-aplicadas/
 - **[G4_Sucesiones.ipynb](Actividades/Guias/G4_Sucesiones.ipynb)**: Análisis y cálculo de términos, patrones recurrentes y comportamiento de sucesiones numéricas.
 
 ### 2. Talleres (`Actividades/Talleres/`)
-- **[Preparacion_Taller_1.ipynb](Actividades/Talleres/Preparacion_Taller_1.ipynb)**: Resolución de problemas de consumo eléctrico durante olas de calor y gestión de residuos urbanos.
+- **[Preparacion_Taller_1.ipynb](Actividades/Talleres/Preparacion_Taller_1.ipynb)**: El Desafío del Tesoro de Isla Ahorria: Descifrando los secretos del ahorro
 - **[Preparacion_Taller_1.ipynb](Actividades/Talleres/Preparacion_Taller_1.ipynb)**: Resolución de problemas de consumo eléctrico durante olas de calor y gestión de residuos urbanos.
 - **[T1_MAT2121_FB.ipynb](Actividades/Talleres/T1_MAT2121_FB.ipynb)**: Taller 1 - Modelado de caudales y prevención de inundaciones.
 - **[T2_MAT2121_FA.ipynb](Actividades/Talleres/T2_MAT2121_FA.ipynb)**: Taller 2 - Comparativa de algoritmos de cifrado lineal vs polinomial.
