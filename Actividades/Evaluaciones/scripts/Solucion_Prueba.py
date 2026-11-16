@@ -8,6 +8,8 @@ y1, y2 = 1030, 1706
 m = (y2-y1)/(x2-x1)
 n = y1 - m * x1
 
+print(f"m --> {m:.2f}")
+
 def f(x):
     return 0.04*x+3.08
 
@@ -16,13 +18,11 @@ print(f"{f(25664):.0f}")
 print(f"{m:.2f}\n")
 print(f"{n}\n")
 
-
 def a(t):
     return 0.36*t**2
 
 def b(t):
     return 0.16*t**2+t+10
-
 
 def intercer(x):
     return a(x)-b(x)
@@ -43,7 +43,6 @@ def c(x):
 solucion = fsolve(c, 1)[0]
 print(f"{round(solucion)}\n")
 print(f"{i(40)}\n")
-
 
 def t(n):
     return 2*(1.05)**n

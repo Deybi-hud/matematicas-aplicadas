@@ -18,11 +18,12 @@ matematicas-aplicadas/
     │   ├── G1_Funciones.ipynb          # Guía 1: Modelado funcional básico
     │   ├── G2_Funciones.ipynb          # Guía 2: Funciones avanzadas y análisis de eficiencia
     │   └── G4_Sucesiones.ipynb         # Guía 4: Sucesiones, términos generales y comportamiento
-    ├── Talleres/                       # Talleres evaluados y de preparación
-    |   ├── Simulacro_taller_3.ipynb    # Taller 3: 5 ejercicios 
-    │   ├── Preparacion_Taller_1.ipynb  # Práctica: Consumo eléctrico y gestión de residuos
+    ├── Talleres/                       # Talleres evaluados, repasos y simulacros
+    │   ├── Repaso_Taller_2.ipynb       # Repaso: Optimización de redes de datos (lineal vs cuadrático)
+    │   ├── Simulacro_Taller_3.ipynb    # Simulacro Taller 3: El desafío del tesoro de Isla Ahorria
     │   ├── T1_MAT2121_FB.ipynb         # Taller 1 (Fila B): Modelado de lluvias torrenciales
-    │   └── T2_MAT2121_FA.ipynb         # Taller 2 (Fila A): Batalla de cifrado (lineal vs polinomial)
+    │   ├── T2_MAT2121_FA.ipynb         # Taller 2 (Fila A): Batalla de cifrado (lineal vs polinomial)
+    │   └── T3_MAT2121_FB.ipynb         # Taller 3 (Fila B): El enigma de la Flor Matakiterani
     └── Evaluaciones/                   # Ensayos de pruebas, cuestionarios y scripts
         ├── Cuestionario_EA1.ipynb      # Cuestionario: Evaluación Auténtica 1
         ├── Ensayo_Prueba_1_MAT2121.ipynb # Ensayo y preparación para Prueba 1
@@ -41,10 +42,11 @@ matematicas-aplicadas/
 - **[G4_Sucesiones.ipynb](Actividades/Guias/G4_Sucesiones.ipynb)**: Análisis y cálculo de términos, patrones recurrentes y comportamiento de sucesiones numéricas.
 
 ### 2. Talleres (`Actividades/Talleres/`)
-- **[Preparacion_Taller_1.ipynb](Actividades/Talleres/Preparacion_Taller_1.ipynb)**: El Desafío del Tesoro de Isla Ahorria: Descifrando los secretos del ahorro
-- **[Preparacion_Taller_1.ipynb](Actividades/Talleres/Preparacion_Taller_1.ipynb)**: Resolución de problemas de consumo eléctrico durante olas de calor y gestión de residuos urbanos.
+- **[Repaso_Taller_2.ipynb](Actividades/Talleres/Repaso_Taller_2.ipynb)**: Repaso de optimización de redes de datos (latencia en la nube: modelo lineal vs cuadrático).
+- **[Simulacro_Taller_3.ipynb](Actividades/Talleres/Simulacro_Taller_3.ipynb)**: Simulacro de Taller 3 - El Desafío del Tesoro de Isla Ahorria (sucesiones y ahorro).
 - **[T1_MAT2121_FB.ipynb](Actividades/Talleres/T1_MAT2121_FB.ipynb)**: Taller 1 - Modelado de caudales y prevención de inundaciones.
 - **[T2_MAT2121_FA.ipynb](Actividades/Talleres/T2_MAT2121_FA.ipynb)**: Taller 2 - Comparativa de algoritmos de cifrado lineal vs polinomial.
+- **[T3_MAT2121_FB.ipynb](Actividades/Talleres/T3_MAT2121_FB.ipynb)**: Taller 3 - El enigma de la Flor Matakiterani (patrones matemáticos y sucesiones).
 
 ### 3. Evaluaciones y Ensayos (`Actividades/Evaluaciones/`)
 - **[Cuestionario_EA1.ipynb](Actividades/Evaluaciones/Cuestionario_EA1.ipynb)**: Preguntas de contexto y dominio para la evaluación auténtica 1.
@@ -69,7 +71,7 @@ matematicas-aplicadas/
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/axcur/matematicas-aplicadas.git
+git clone https://github.com/Deybi-hud/matematicas-aplicadas.git
 cd matematicas-aplicadas
 ```
 
