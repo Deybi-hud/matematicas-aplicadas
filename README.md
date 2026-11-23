@@ -2,7 +2,7 @@
 
 Repositorio de actividades, talleres y evaluaciones de **Matemáticas Aplicadas**, desarrollado principalmente en **Python** y **Jupyter Notebook**.
 
-Este espacio documenta ejercicios de análisis matemático, modelado funcional, optimización, sucesiones y visualización gráfica aplicados a problemas del mundo real (redes, análisis de costos, consumo energético, cifrado de datos y climatología).
+Este espacio documenta ejercicios de análisis matemático, modelado funcional, optimización, sucesiones, álgebra matricial y visualización gráfica aplicados a problemas del mundo real (redes, análisis de costos, consumo energético, cifrado de datos y climatología).
 
 ---
 
@@ -10,26 +10,30 @@ Este espacio documenta ejercicios de análisis matemático, modelado funcional, 
 
 ```text
 matematicas-aplicadas/
-├── .gitignore                          # Exclusión de checkpoints y archivos temporales
-├── requirements.txt                    # Dependencias del proyecto
-├── README.md                           # Documentación principal
+├── .gitignore                              # Exclusión de checkpoints y archivos temporales
+├── requirements.txt                        # Dependencias del proyecto
+├── README.md                               # Documentación principal
 └── Actividades/
-    ├── Guias/                          # Guías de ejercicios y práctica (funciones y sucesiones)
-    │   ├── G1_Funciones.ipynb          # Guía 1: Modelado funcional básico
-    │   ├── G2_Funciones.ipynb          # Guía 2: Funciones avanzadas y análisis de eficiencia
-    │   └── G4_Sucesiones.ipynb         # Guía 4: Sucesiones, términos generales y comportamiento
-    ├── Talleres/                       # Talleres evaluados, repasos y simulacros
-    │   ├── Repaso_Taller_2.ipynb       # Repaso: Optimización de redes de datos (lineal vs cuadrático)
-    │   ├── Simulacro_Taller_3.ipynb    # Simulacro Taller 3: El desafío del tesoro de Isla Ahorria
-    │   ├── T1_MAT2121_FB.ipynb         # Taller 1 (Fila B): Modelado de lluvias torrenciales
-    │   ├── T2_MAT2121_FA.ipynb         # Taller 2 (Fila A): Batalla de cifrado (lineal vs polinomial)
-    │   └── T3_MAT2121_FB.ipynb         # Taller 3 (Fila B): El enigma de la Flor Matakiterani
-    └── Evaluaciones/                   # Ensayos de pruebas, cuestionarios y scripts
-        ├── Cuestionario_EA1.ipynb      # Cuestionario: Evaluación Auténtica 1
-        ├── Ensayo_Prueba_1_MAT2121.ipynb # Ensayo y preparación para Prueba 1
+    ├── Guias/                              # Guías de ejercicios organizadas por temática
+    │   ├── Funciones/
+    │   │   ├── G1_Funciones.ipynb          # Guía 1: Modelado funcional básico
+    │   │   └── G2_Funciones.ipynb          # Guía 2: Funciones avanzadas y análisis de eficiencia
+    │   ├── Sucesiones/
+    │   │   └── G4_Sucesiones.ipynb         # Guía 4: Sucesiones, términos generales y comportamiento
+    │   └── Matrices/
+    │       └── G5_Matrices.ipynb           # Guía 5: Operaciones con matrices y aplicaciones
+    ├── Talleres/                           # Talleres evaluados, repasos y simulacros
+    │   ├── Repaso_Taller_2.ipynb           # Repaso: Optimización de redes de datos (lineal vs cuadrático)
+    │   ├── Simulacro_Taller_3.ipynb        # Simulacro Taller 3: El desafío del tesoro de Isla Ahorria
+    │   ├── T1_MAT2121_FB.ipynb             # Taller 1 (Fila B): Modelado de lluvias torrenciales
+    │   ├── T2_MAT2121_FA.ipynb             # Taller 2 (Fila A): Batalla de cifrado (lineal vs polinomial)
+    │   └── T3_MAT2121_FB.ipynb             # Taller 3 (Fila B): El enigma de la Flor Matakiterani
+    └── Evaluaciones/                       # Ensayos de pruebas, cuestionarios y scripts
+        ├── Cuestionario_EA1.ipynb          # Cuestionario: Evaluación Auténtica 1
+        ├── Ensayo_Prueba_1_MAT2121.ipynb     # Ensayo y preparación para Prueba 1
         └── scripts/
-            ├── Pregunta_12.py          # Script: Comparación de costos en sitios web
-            └── Solucion_Prueba.py      # Script: Resolución numérica y gráfica con fsolve
+            ├── Pregunta_12.py              # Script: Comparación de costos en sitios web
+            └── Solucion_Prueba.py          # Script: Resolución numérica y gráfica con fsolve
 ```
 
 ---
@@ -37,9 +41,13 @@ matematicas-aplicadas/
 ## Contenido Detallado
 
 ### 1. Guías de Trabajo (`Actividades/Guias/`)
-- **[G1_Funciones.ipynb](Actividades/Guias/G1_Funciones.ipynb)**: Modelado de funciones para transmisión de datos, costos de producción y variación temporal.
-- **[G2_Funciones.ipynb](Actividades/Guias/G2_Funciones.ipynb)**: Evaluación de eficiencia de algoritmos, funciones cuadráticas y no lineales.
-- **[G4_Sucesiones.ipynb](Actividades/Guias/G4_Sucesiones.ipynb)**: Análisis y cálculo de términos, patrones recurrentes y comportamiento de sucesiones numéricas.
+- **Funciones (`Actividades/Guias/Funciones/`)**:
+  - **[G1_Funciones.ipynb](Actividades/Guias/Funciones/G1_Funciones.ipynb)**: Modelado de funciones para transmisión de datos, costos de producción y variación temporal.
+  - **[G2_Funciones.ipynb](Actividades/Guias/Funciones/G2_Funciones.ipynb)**: Evaluación de eficiencia de algoritmos, funciones cuadráticas y no lineales.
+- **Sucesiones (`Actividades/Guias/Sucesiones/`)**:
+  - **[G4_Sucesiones.ipynb](Actividades/Guias/Sucesiones/G4_Sucesiones.ipynb)**: Análisis y cálculo de términos, patrones recurrentes y comportamiento de sucesiones numéricas.
+- **Matrices (`Actividades/Guias/Matrices/`)**:
+  - **[G5_Matrices.ipynb](Actividades/Guias/Matrices/G5_Matrices.ipynb)**: Definición, suma, resta, producto y análisis matricial aplicado con NumPy.
 
 ### 2. Talleres (`Actividades/Talleres/`)
 - **[Repaso_Taller_2.ipynb](Actividades/Talleres/Repaso_Taller_2.ipynb)**: Repaso de optimización de redes de datos (latencia en la nube: modelo lineal vs cuadrático).
